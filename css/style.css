@@ -1,0 +1,79 @@
+/* .cardSize{
+    border-radius: 50px
+} */
+.style{
+    color: black;
+    font-weight: bold;
+    
+    
+}
+.roundedSize{
+    border-radius: 20px;
+    
+}
+.card-text{
+    color: grey
+}
+.container4{
+    
+    
+    margin-left: 8%;
+    margin-right: 8%;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: hsl(225, 100%, 98%);
+    align-items: center;
+    
+
+
+
+ }
+ .row-culm{
+     display: flex; 
+     justify-content: space-between;
+     margin-left: 5%;
+     margin-right: 5%;
+     text-align: center;
+     
+     
+ }
+ .media1{
+    
+   align-content: center;
+
+ }
+ .textStyle{
+     color: blue;
+     text-decoration-line:underline
+ }
+ .buttonStyle{
+     background-color: hsl(266, 81%, 48%);  
+     height: 40px;
+     width: 60%;
+     color: white;
+     border-radius: 15px;
+     border: none;
+     
+
+ }
+ .buttonStyle2{
+   
+    height: 40px;
+    width: 60%;
+    color:hsl(224, 23%, 55%);
+    border:none;
+    background-color: white;
+    font-weight: 500;
+}
+.image{
+    width: 35px;
+    height: 35px;
+}
+/* .imageStyle{
+    
+} */
+.annualText{
+    font-size: large;
+    font-weight: bold;
+}
